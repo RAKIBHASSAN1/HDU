@@ -1,0 +1,13 @@
+#include<iostream>
+#include<cstdio>
+#include<iostream>
+using namespace std;
+int main()
+{
+int i,j,m;
+while(cin>>i>>j)
+{
+m=i+j;
+cout<<m<<endl;
+}
+}

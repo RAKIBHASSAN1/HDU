@@ -1,0 +1,13 @@
+#include<iostream>
+#include<cstdio>
+using namespace std;
+int main()
+{
+long long result,n;
+int i;
+while(cin>>n)
+{
+    result=(n*(n+1))/2;
+    cout<<result<<endl<<endl;
+}
+}
